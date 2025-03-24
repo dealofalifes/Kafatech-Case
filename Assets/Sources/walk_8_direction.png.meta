@@ -1,0 +1,1717 @@
+fileFormatVersion: 2
+guid: 3600cbfd2ede24d49b89e99f0e172bcc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4134565527612569397
+    second: walk_8_direction_0
+  - first:
+      213: 1093979280744285592
+    second: walk_8_direction_1
+  - first:
+      213: 6204263335065689716
+    second: walk_8_direction_2
+  - first:
+      213: 4714884908291973304
+    second: walk_8_direction_3
+  - first:
+      213: 7273616985226078134
+    second: walk_8_direction_4
+  - first:
+      213: -4346033430829050300
+    second: walk_8_direction_5
+  - first:
+      213: 7240880098678825528
+    second: walk_8_direction_6
+  - first:
+      213: -8057251778275528311
+    second: walk_8_direction_7
+  - first:
+      213: -2182691152584479768
+    second: walk_8_direction_8
+  - first:
+      213: -3692382579450828750
+    second: walk_8_direction_9
+  - first:
+      213: -3015655779910951844
+    second: walk_8_direction_10
+  - first:
+      213: -5590729032105345569
+    second: walk_8_direction_11
+  - first:
+      213: -303506521343766713
+    second: walk_8_direction_12
+  - first:
+      213: 5701531047109568575
+    second: walk_8_direction_13
+  - first:
+      213: -1031282028401131823
+    second: walk_8_direction_14
+  - first:
+      213: 1716586125870548874
+    second: walk_8_direction_15
+  - first:
+      213: -84147703242218538
+    second: walk_8_direction_16
+  - first:
+      213: -1736489876994080184
+    second: walk_8_direction_17
+  - first:
+      213: 6128178113290465684
+    second: walk_8_direction_18
+  - first:
+      213: 1657923692361800302
+    second: walk_8_direction_19
+  - first:
+      213: -4609104723633473962
+    second: walk_8_direction_20
+  - first:
+      213: 4110763285032547259
+    second: walk_8_direction_21
+  - first:
+      213: -6756778899366603941
+    second: walk_8_direction_22
+  - first:
+      213: 3770895780149354221
+    second: walk_8_direction_23
+  - first:
+      213: 3925355985282475274
+    second: walk_8_direction_24
+  - first:
+      213: 1615567581920002903
+    second: walk_8_direction_25
+  - first:
+      213: 6480378859927934880
+    second: walk_8_direction_26
+  - first:
+      213: -8487797571513562022
+    second: walk_8_direction_27
+  - first:
+      213: -5219274208296121793
+    second: walk_8_direction_28
+  - first:
+      213: -7598445367792846322
+    second: walk_8_direction_29
+  - first:
+      213: 4948622277236169995
+    second: walk_8_direction_30
+  - first:
+      213: 8088879842023880723
+    second: walk_8_direction_31
+  - first:
+      213: 7557731264897384073
+    second: walk_8_direction_32
+  - first:
+      213: -5004578210551197626
+    second: walk_8_direction_33
+  - first:
+      213: -8576871331202471073
+    second: walk_8_direction_34
+  - first:
+      213: 5241325506660133165
+    second: walk_8_direction_35
+  - first:
+      213: 1546558358701083345
+    second: walk_8_direction_36
+  - first:
+      213: -5463742006750870047
+    second: walk_8_direction_37
+  - first:
+      213: -1906096909442840058
+    second: walk_8_direction_38
+  - first:
+      213: 9015504020710181313
+    second: walk_8_direction_39
+  - first:
+      213: 8016817034384326016
+    second: walk_8_direction_40
+  - first:
+      213: 5932098804286758866
+    second: walk_8_direction_41
+  - first:
+      213: 7519989357990767759
+    second: walk_8_direction_42
+  - first:
+      213: 4875210393487918716
+    second: walk_8_direction_43
+  - first:
+      213: 268537504590583891
+    second: walk_8_direction_44
+  - first:
+      213: 104019368566263041
+    second: walk_8_direction_45
+  - first:
+      213: 7109321782774274911
+    second: walk_8_direction_46
+  - first:
+      213: 6137921083963370392
+    second: walk_8_direction_47
+  - first:
+      213: 8729860010327484341
+    second: walk_8_direction_48
+  - first:
+      213: -3492929811008382346
+    second: walk_8_direction_49
+  - first:
+      213: 6888716872322719881
+    second: walk_8_direction_50
+  - first:
+      213: -1661386404704769541
+    second: walk_8_direction_51
+  - first:
+      213: -5985050193784891372
+    second: walk_8_direction_52
+  - first:
+      213: -5625330870239212064
+    second: walk_8_direction_53
+  - first:
+      213: -3621014701901127376
+    second: walk_8_direction_54
+  - first:
+      213: 965910268384046325
+    second: walk_8_direction_55
+  - first:
+      213: -1828103582424086327
+    second: walk_8_direction_56
+  - first:
+      213: 4770183018524570780
+    second: walk_8_direction_57
+  - first:
+      213: -1548569325562520722
+    second: walk_8_direction_58
+  - first:
+      213: 7823388576725399322
+    second: walk_8_direction_59
+  - first:
+      213: 6689704893224216329
+    second: walk_8_direction_60
+  - first:
+      213: 3133645259745934671
+    second: walk_8_direction_61
+  - first:
+      213: 340305244905011225
+    second: walk_8_direction_62
+  - first:
+      213: -8456024028988177135
+    second: walk_8_direction_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walk_8_direction_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1185
+        width: 39
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8c31afe821f96c0800000000000000
+      internalID: -4134565527612569397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_1
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1182
+        width: 40
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89586641c589e2f00800000000000000
+      internalID: 1093979280744285592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1180
+        width: 38
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e1293b1a8f91650800000000000000
+      internalID: 6204263335065689716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_3
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1181
+        width: 38
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0e793f7d2ae6140800000000000000
+      internalID: 4714884908291973304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_4
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1183
+        width: 38
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7e5ac5c1411f460800000000000000
+      internalID: 7273616985226078134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_5
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1183
+        width: 39
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4465675fe99cfa3c0800000000000000
+      internalID: -4346033430829050300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_6
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1181
+        width: 39
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83262fef516cc7460800000000000000
+      internalID: 7240880098678825528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_7
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1182
+        width: 39
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981b0026234ee2090800000000000000
+      internalID: -8057251778275528311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1026
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb60db06f585b1e0800000000000000
+      internalID: -2182691152584479768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1025
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2382ef86b9502ccc0800000000000000
+      internalID: -3692382579450828750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1022
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cdd89bb0d3626d0800000000000000
+      internalID: -3015655779910951844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_11
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1021
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddb5e5f09db962b0800000000000000
+      internalID: -5590729032105345569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_12
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1022
+        width: 55
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f4a484d6ab9cbf0800000000000000
+      internalID: -303506521343766713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_13
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1028
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38a3d28748ef1f40800000000000000
+      internalID: 5701531047109568575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_14
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1028
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1def7e9857620b1f0800000000000000
+      internalID: -1031282028401131823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_15
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1027
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87c0e29cf982d710800000000000000
+      internalID: 1716586125870548874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_16
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 862
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d325971c1c05def0800000000000000
+      internalID: -84147703242218538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_17
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 862
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842c4bd38afb6e7e0800000000000000
+      internalID: -1736489876994080184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_18
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 862
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491700b8689ab0550800000000000000
+      internalID: 6128178113290465684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_19
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 861
+        width: 73
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6addeb60d0220710800000000000000
+      internalID: 1657923692361800302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_20
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 862
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65670478cab2900c0800000000000000
+      internalID: -4609104723633473962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_21
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 862
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb335109d6d5c0930800000000000000
+      internalID: 4110763285032547259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_22
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 865
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b531665d3691b32a0800000000000000
+      internalID: -6756778899366603941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_23
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 862
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee52d4abb9e45430800000000000000
+      internalID: 3770895780149354221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_24
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 696
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0527bf987aa97630800000000000000
+      internalID: 3925355985282475274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 696
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7538af6f726ab6610800000000000000
+      internalID: 1615567581920002903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_26
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 696
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a794f31d3eeee950800000000000000
+      internalID: 6480378859927934880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_27
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 697
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cc2883419453a80800000000000000
+      internalID: -8487797571513562022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_28
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 699
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ac62da2c96197b0800000000000000
+      internalID: -5219274208296121793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_29
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 695
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0abe7f3236ec8690800000000000000
+      internalID: -7598445367792846322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_30
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 695
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d1f320eb90da440800000000000000
+      internalID: 4948622277236169995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_31
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 693
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318b6ae0c59714070800000000000000
+      internalID: 8088879842023880723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_32
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 535
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e7218fa8472e860800000000000000
+      internalID: 7557731264897384073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_33
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 529
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6409f6502aa2c8ab0800000000000000
+      internalID: -5004578210551197626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_34
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 529
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5be17b67f4d8f880800000000000000
+      internalID: -8576871331202471073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_35
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 530
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29eba057cdecb840800000000000000
+      internalID: 5241325506660133165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_36
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 534
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da0aca12aa767510800000000000000
+      internalID: 1546558358701083345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_37
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 534
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e50c3fc793ec24b0800000000000000
+      internalID: -5463742006750870047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_38
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 533
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a8035b5fe2c85e0800000000000000
+      internalID: -1906096909442840058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_39
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 532
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9498104218d1d70800000000000000
+      internalID: 9015504020710181313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_40
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 369
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d37cb2e94714f60800000000000000
+      internalID: 8016817034384326016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_41
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 365
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df1802de6c035250800000000000000
+      internalID: 5932098804286758866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_42
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 364
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ce1cd7a7e5c5860800000000000000
+      internalID: 7519989357990767759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_43
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 366
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76c32dd50a38a340800000000000000
+      internalID: 4875210393487918716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_44
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 368
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358ddf900790ab300800000000000000
+      internalID: 268537504590583891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_45
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 370
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d0729801d817100800000000000000
+      internalID: 104019368566263041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_46
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 372
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b1530ae7269a260800000000000000
+      internalID: 7109321782774274911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_47
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 372
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b640da4b64e2550800000000000000
+      internalID: 6137921083963370392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_48
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 201
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b725763d61b62970800000000000000
+      internalID: 8729860010327484341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_49
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 202
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a197dd7de968fc0800000000000000
+      internalID: -3492929811008382346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_50
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 201
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98029055f73a99f50800000000000000
+      internalID: 6888716872322719881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_51
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 202
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9a8e80ed191f8e0800000000000000
+      internalID: -1661386404704769541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_52
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 202
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41891941f84d0fca0800000000000000
+      internalID: -5985050193784891372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_53
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 202
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed4a57b06fcee1b0800000000000000
+      internalID: -5625330870239212064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_54
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 202
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03167b640529fbdc0800000000000000
+      internalID: -3621014701901127376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_55
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 202
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fceeef754a976d00800000000000000
+      internalID: 965910268384046325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 39
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c84efc3a7541a6e0800000000000000
+      internalID: -1828103582424086327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_57
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 39
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94f1cc8e28133240800000000000000
+      internalID: 4770183018524570780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_58
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 37
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b97cf2760628ae0800000000000000
+      internalID: -1548569325562520722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_59
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 39
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17f09fd572429c60800000000000000
+      internalID: 7823388576725399322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_60
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 38
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90762d4282b96dc50800000000000000
+      internalID: 6689704893224216329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_61
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 35
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d3e3fc2c1fc7b20800000000000000
+      internalID: 3133645259745934671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_62
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 34
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918f3c531d109b400800000000000000
+      internalID: 340305244905011225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk_8_direction_63
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 35
+        width: 59
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1150ef392fa26aa80800000000000000
+      internalID: -8456024028988177135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
